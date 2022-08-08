@@ -8,7 +8,12 @@ mam jutuba - https://www.youtube.com/channel/UC16UBhZ2AZonBoRWBRtQIHA
 i discorda - https://discord.gg/4BkmfHJUeG
 
 
-i gulideda - https://www.guilded.gg/i/pYrqxjoE
+i guildeda - https://www.guilded.gg/i/pYrqxjoE
+
+
+i twittera - @antkowy2
+
+
 - end -
 <!---
 antekm-normalgosc/antekm-normalgosc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
